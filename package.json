@@ -1,0 +1,15 @@
+{
+  "name": "truyenqq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CDkaisokuvn <chu.duong.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "ioredis": "^4.27.2",
+    "kue": "^0.11.6",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
